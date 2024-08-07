@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ictshop_aspnet-ictshop_v1",
+    "\\ictshop_aspnet-ictshop_v1\\Database",
+    "\\ictshop_aspnet-ictshop_v1\\HinhanhSP",
+    "\\ictshop_aspnet-ictshop_v1\\Ictshop",
+    "\\ictshop_aspnet-ictshop_v1\\Ictshop\\Models",
+    "\\ictshop_aspnet-ictshop_v1\\packages",
+    "\\ictshop_aspnet-ictshop_v1\\packages\\Antlr.3.5.0.2",
+    "\\ictshop_aspnet-ictshop_v1\\packages\\bootstrap.3.4.1",
+    "\\ictshop_aspnet-ictshop_v1\\packages\\Microsoft.jQuery.Unobtrusive.Validation.3.2.11"
+  ],
+  "SelectedNode": "\\ictshop_aspnet-ictshop_v1\\Ictshop\\Web.config",
+  "PreviewInSolutionExplorer": false
+}
